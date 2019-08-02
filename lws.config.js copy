@@ -1,0 +1,50 @@
+module.exports = {
+  rewrite: [
+    {
+      from: '/assets-drawer',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Ftoolbox-assets-drawer.gif?1549469487'
+    },
+    {
+      from: '/assets-drawer-old',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Ftoolbox-assets-drawer.gif?1549345653104'
+    },
+    {
+      from: '/logs-pane-console',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Ftoolbox-logs-console.gif?1548861347244'
+    },
+    {
+      from: '/red-dot-error',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Fred-dot-error.gif?1547992386256'
+    },
+    {
+      from: '/new-stuff-toolbox',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Fnew-stuff-toolbox.gif?1548822363588'
+    },
+    {
+      from: '/toolbox-logs',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Fnew-tools-logs.gif?1548856284591'
+    },
+    {
+      from: '/invite-link',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Finvite-link.png?1548867190034'
+    },
+    {
+      from: '/download-project',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Ftoolsbox-download-project.gif?1549145876171'
+    },
+    {
+      from: '/forums-message-staff',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Fdiscourse-add-staff-to-message.gif?1549207124331'
+    },
+    {
+      from: '/git-username',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Ftoolbox-git-username.gif?1549284650284'
+    },
+    {
+      from: '/enable-pnpm',
+      to: 'https://cdn.glitch.com/32df0d2f-f0eb-4c35-86aa-228e2befb282%2Ftoolbox-enable-pnpm.gif?1549345674286'
+    }
+  ],
+  directory: '/app',
+  logFormat: 'stats'
+}
